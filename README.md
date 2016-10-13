@@ -1,2 +1,2 @@
 # This is my readme file
-Information
+This is information. 
